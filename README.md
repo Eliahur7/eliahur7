@@ -28,4 +28,5 @@ I'm Ran Eliahu, a passionate engineering leader.
 - I like coding and learning new technologies independently whilealways looking for collaboration opportunities...
 - 💬 Ask me about Cloud AWS RDS/Aurora, S3, Redshift, SQL Server
      Ask me anything about leaderships and being a people's first leader
-- ⚡ Fun fact: I can still write in pascal progremming language! 
+- ⚡ Fun fact: I can still write in pascal programming language! 
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/raneliahu)
