@@ -1,10 +1,20 @@
 ### Hi there 👋
 
-<!--
-**Ran Eliahu**Eliahur7/eliahur7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ran Eliahu, a passionate engineering leader. 
 
-Here are some ideas to get you started:
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
+<div id="badges"  align="center">
+  <a href="https://www.linkedin.com/in/raneliahu/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+<div align = "center">
+<img src="https://komarev.com/ghpvc/?username=eliahu7&style=flat-square&color=blue" alt=""/>
+</div>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,4 +23,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
