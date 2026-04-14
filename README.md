@@ -1,6 +1,6 @@
 # Hi, I'm Ran Eliahu | AWS Expert | AI & Fintech 👋
 
-I am a Developer and Technical Trader focused on building algorithmic trading tools, data scraping engines, and internal web applications. My work bridges the gap between technical analysis and automated software solutions.
+I am an AI Cloud Engineer and Technical Trader focused on building algorithmic trading tools, data scraping engines, and internal web applications. My work bridges the gap between technical analysis and automated software solutions.
 
 ### 🛠 Tech Stack
 * **Languages:** Python (Primary), ThinkScript (ThinkOrSwim), JavaScript
