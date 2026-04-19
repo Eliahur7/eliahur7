@@ -1,4 +1,4 @@
-<meta name="google-site-verification" content="OmFvhXsCC3fORaD3w9xoY_NdcPQe6VOjJKGfFoenS00" />
+<meta name="google-site-verification" content="Apib7-x98H0j5cPqHWwSMm6dNU4GmODRoqxLiDzdx9I" />
 # Hi, I'm Ran Eliahu | AWS Expert | AI & Fintech 👋
 
 I am an AI Cloud Engineer and Technical Trader focused on building algorithmic trading tools, data scraping engines, and internal web applications. My work bridges the gap between technical analysis and automated software solutions.
