@@ -21,7 +21,7 @@ On the trading side, I build algorithmic scanners, sentiment engines, and convic
 
 * **[Stock Buddy Insights](https://github.com/Eliahur7/stock-buddy-insights)** — AI-powered stock analysis platform built with React and Supabase. Combines fundamental scoring, sentiment analysis, and technical signals into a single conviction dashboard.
 
-* **[ThinkorSwim Studies & Scanners](https://github.com/Eliahur7/thinkorswim-studies)** — Production-grade ThinkScript library including the Institutional Accumulation Scanner, Fallen Angels Scanner, Elite Fundamentals Scanner, and TTM Squeeze Pro study. Used in a live trading workflow.
+* **[ThinkorSwim Studies & Scanners](https://github.com/Eliahur7/ThinkOrSwim-)** — Production-grade ThinkScript library including the Institutional Accumulation Scanner, Fallen Angels Scanner, Elite Fundamentals Scanner, and TTM Squeeze Pro study. Used in a live trading workflow.
 
 * **[reddit_praw](https://github.com/Eliahur7/reddit_praw)** — Python-based Reddit scraper designed for stock sentiment analysis and social signal extraction using the PRAW API.
 
