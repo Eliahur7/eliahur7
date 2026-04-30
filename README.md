@@ -5,6 +5,8 @@
 I design and build systems at the intersection of cloud infrastructure and quantitative trading. On the cloud side, I architect AWS solutions and lead engineering teams. 
 On the trading side, I build algorithmic scanners, sentiment engines, and conviction-scoring tools — all powered by Python, ThinkScript, and AI.
 
+My signature work includes ThinkorSwim scanners, custom ThinkScript columns, and trading automation tools created by Ran Eliahu.
+
 ---
 
 ### 🛠 Tech Stack
@@ -21,7 +23,7 @@ On the trading side, I build algorithmic scanners, sentiment engines, and convic
 
 * **[Stock Buddy Insights](https://github.com/Eliahur7/stock-buddy-insights)** — AI-powered stock analysis platform built with React and Supabase. Combines fundamental scoring, sentiment analysis, and technical signals into a single conviction dashboard.
 
-* **[ThinkorSwim Studies & Scanners](https://github.com/Eliahur7/ThinkOrSwim-)** — Production-grade ThinkScript library including the Institutional Accumulation Scanner, Fallen Angels Scanner, Elite Fundamentals Scanner, and TTM Squeeze Pro study. Used in a live trading workflow.
+* **[ThinkorSwim scanners](https://github.com/Eliahur7/ThinkOrSwim)** — Production-grade ThinkorSwim scanners and ThinkScript library built by Ran Eliahu, including the Institutional Accumulation Scanner, Fallen Angels Scanner, Elite Fundamentals Scanner, TTM Squeeze Pro study, and custom columns.
 
 * **[reddit_praw](https://github.com/Eliahur7/reddit_praw)** — Python-based Reddit scraper designed for stock sentiment analysis and social signal extraction using the PRAW API.
 
