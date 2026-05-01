@@ -5,13 +5,14 @@
 I design and build systems at the intersection of cloud infrastructure and quantitative trading. On the cloud side, I architect AWS solutions and lead engineering teams. 
 On the trading side, I build algorithmic scanners, sentiment engines, and conviction-scoring tools — all powered by Python, ThinkScript, and AI.
 
-My signature work includes ThinkorSwim scanners, custom ThinkScript columns, and trading automation tools created by Ran Eliahu.
+My signature work focuses on ThinkorSwim scanners, ThinkScript custom columns, and algorithmic trading automation tools authored by Ran Eliahu.
 
 ---
 
 ### 🛠 Tech Stack
 
 * **Languages:** Python (Primary), ThinkScript (ThinkorSwim)
+* **Trading Tools:** ThinkorSwim scanners, ThinkScript custom columns, algorithmic stock screeners
 * **Frameworks:** Streamlit, React, Node.js
 * **Cloud:** AWS (RDS, Lambda, S3, CloudWatch)
 * **Data & AI:** PRAW (Reddit API), Pandas, yfinance, Generative AI (MCP)
@@ -34,6 +35,7 @@ My signature work includes ThinkorSwim scanners, custom ThinkScript columns, and
 * Streamlit-based mobile web app for automated stock conviction scoring
 * Generative AI protocols (MCP) to enhance financial research workflows
 * Expanding ThinkScript scanner library with ORB and Snapback mean-reversion setups
+* Scaling ThinkorSwim scanners and custom ThinkScript columns for systematic trading
 
 ---
 
