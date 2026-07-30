@@ -26,7 +26,7 @@ My signature work focuses on ThinkorSwim scanners, ThinkScript custom columns, a
 
 * **[ThinkorSwim scanners](https://github.com/Eliahur7/ThinkOrSwim)** — Production-grade ThinkorSwim scanners and ThinkScript library built by Ran Eliahu, including the Institutional Accumulation Scanner, Fallen Angels Scanner, Elite Fundamentals Scanner, TTM Squeeze Pro study, and custom columns.
 
-* **[reddit_praw](https://github.com/Eliahur7/reddit_praw)** — Python-based Reddit scraper designed for stock sentiment analysis and social signal extraction using the PRAW API.
+* **[Chief of Staff AI](https://github.com/Eliahur7/chief-of-staff-ai-example)** — An AI-powered assistant designed to manage executive tasks, schedule prioritization, and information synthesis using advanced large language models.
 
 ---
 
